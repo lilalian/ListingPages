@@ -1,0 +1,10 @@
+---
+title: "Race Specific Network"
+date: "2022-06-28"
+categories: [network]
+image: "racespecific.png"
+url: <https://dev.parse-health.org/shiny/racespecific/>
+
+---
+
+Click [here](https://dev.parse-health.org/shiny/racespecific/) to see the web app.

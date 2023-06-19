@@ -1,0 +1,10 @@
+---
+title: "Network Fixed Coord"
+date: "2022-06-28"
+categories: [network]
+image: "network-fixed-coord.png"
+url: <https://dev.parse-health.org/shiny/network-fixed-coord/>
+
+---
+
+Click [here](https://dev.parse-health.org/shiny/network-fixed-coord/) to see the web app.

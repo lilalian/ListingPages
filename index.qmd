@@ -1,0 +1,16 @@
+---
+title: "App Gallery"
+listing:
+  contents: 
+    - apps
+    - archived-items.yaml
+  categories: true
+  type: grid
+  fields: [image, title, url]
+  fields: [image, title]
+  page-size: 36
+  sort: "title"
+---
+
+Welcome to the Gallery! You can click the following images for additional information:
+

@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/apps/01-ARCH/index.html",
+      "/apps/02-directed-net/index.html",
+      "/apps/03-drugs-diseases/index.html",
+      "/apps/04-kesernetwork/index.html",
+      "/apps/05-KOMAP-show/index.html",
+      "/apps/06-multi-view-net/index.html",
+      "/apps/07-network-fixed-coord/index.html",
+      "/apps/08-ONCE/index.html",
+      "/apps/09-PARSEnetwork/index.html",
+      "/apps/11-PheMEGA/index.html",
+      "/apps/10-phecodemap/index.html",
+      "/apps/12-racespecific/index.html"
+    ]
+  }
+]

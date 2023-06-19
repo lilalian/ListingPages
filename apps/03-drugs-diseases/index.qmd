@@ -1,0 +1,10 @@
+---
+title: "Drug & Disease Network"
+date: "2022-06-28"
+categories: [network]
+image: "drugs-diseases.png"
+url: <https://dev.parse-health.org/shiny/drugs-diseases/>
+
+---
+
+Click [here](https://dev.parse-health.org/shiny/drugs-diseases/) to see the web app.

@@ -1,0 +1,10 @@
+---
+title: "KOMAP"
+date: "2022-06-28"
+categories: [network]
+image: "KOMAP-show.png"
+url: <https://shiny.parse-health.org/KOMAP-show/>
+
+---
+
+Click [here](https://shiny.parse-health.org/KOMAP-show/) to see the web app.

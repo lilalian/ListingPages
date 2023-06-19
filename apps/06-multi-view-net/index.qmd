@@ -1,0 +1,10 @@
+---
+title: "Multi-View Network"
+date: "2022-06-28"
+categories: [network]
+image: "multi-view-net.png"
+url: <https://dev.parse-health.org/shiny/multi-view-net/>
+
+---
+
+Click [here](https://dev.parse-health.org/shiny/multi-view-net/) to see the web app.

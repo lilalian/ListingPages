@@ -1,0 +1,10 @@
+---
+title: "Directed Network"
+date: "2022-06-28"
+categories: [network]
+image: "directed-net.png"
+url: <https://dev.parse-health.org/shiny/directed-net/>
+
+---
+
+Click [here](https://dev.parse-health.org/shiny/directed-net/) to see the web app.
